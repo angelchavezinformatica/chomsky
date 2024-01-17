@@ -40,3 +40,9 @@ Este programa tiene como objetivo convertir gramáticas libres de contexto a la 
 Haremos todo lo posible para responder a tus consultas en un plazo de 48 horas.
 
 ¡Gracias por utilizar nuestro Conversor de Gramática a Forma Normal de Chomsky!
+
+### Contribuidores
+
+- Chávez García Angel Emanuel
+- Mostacero Bazan Kevin Alejandro
+- Sánchez Abanto Félix Aladino
