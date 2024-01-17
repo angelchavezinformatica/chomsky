@@ -10,7 +10,7 @@ Este programa tiene como objetivo convertir gramáticas libres de contexto a la 
 
    ```bash
    git clone https://github.com/angelchavezinformatica/chomsky.git
-   cd conversor-chomsky
+   cd chomsky
    ```
 
 ## Requisitos de Sistema
