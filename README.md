@@ -9,7 +9,7 @@ Este programa tiene como objetivo convertir gramáticas libres de contexto a la 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/conversor-chomsky.git
+   git clone https://github.com/angelchavezinformatica/chomsky.git
    cd conversor-chomsky
    ```
 
